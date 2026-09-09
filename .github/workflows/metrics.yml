@@ -22,7 +22,8 @@ jobs:
           # `repo` + `read:user` and add it as a secret named METRICS_TOKEN.
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: MrKMJ
-          filename: github-metrics.svg
+          filename: dist/github-metrics.svg
+          output_action: none
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
@@ -30,3 +31,11 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+
+      - name: Publish to the metrics branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: metrics
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
