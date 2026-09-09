@@ -2,7 +2,7 @@
 <!-- Repo name must be exactly "MrKMJ" for GitHub to render this on your profile -->
 
 <h1 align="center">Hi, I'm Khawaja Moinuddin Jamal 👋</h1>
-<h3 align="center">AI Engineer · MERN Full-Stack Developer · CS/SE @ FAST-NUCES</h3>
+<h3 align="center">AI Engineer · MERN Full-Stack Developer · MS/AI @ NEDUET</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/KhawajaMoinuddinJamal">
