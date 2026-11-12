@@ -11,6 +11,9 @@
   <a href="mailto:kmoinjamal786@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.fiverr.com/moinjamal">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=MrKMJ&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -71,6 +74,23 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 💼 Hire Me on Fiverr
+
+I build the same kind of systems you see below for clients. Message me first with your goal and I'll reply with a plan before you order.
+
+| Service | Good for |
+|---|---|
+| **[Custom RAG AI chatbot](https://www.fiverr.com/moinjamal/develop-custom-ai-chatbots-and-automate-your-business-tasks)** | A chatbot that answers from your PDFs, docs and website, with sources |
+| **[CRM / ERP automation with AI](https://www.fiverr.com/moinjamal/automate-your-crm-or-erp-with-ai-chatbots-apis-and-workflow-integration)** | Workflows, API integrations and AI assistants inside your CRM or ERP |
+| **[Django REST API + React web app](https://www.fiverr.com/moinjamal/build-a-django-rest-api-and-react-web-app-for-your-ai-or-saas-product)** | The backend and front end for your AI or SaaS product |
+| **[LLM fine-tuning & custom ML models](https://www.fiverr.com/moinjamal/fine-tune-an-llm-and-train-custom-machine-learning-models-on-your-data)** | Models trained on your data, with an evaluation report |
+
+<p align="center">
+  <a href="https://www.fiverr.com/moinjamal"><img src="https://img.shields.io/badge/See_all_services_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" /></a>
+</p>
 
 ---
 
