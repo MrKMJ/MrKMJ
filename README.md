@@ -81,6 +81,8 @@
 
 I build the same kind of systems you see below for clients. Message me first with your goal and I'll reply with a plan before you order.
 
+**Try it live:** [RAG chatbot demo on Hugging Face](https://huggingface.co/spaces/kmoinjamal786/rag-chatbot-demo) answers only from its documents and cites the source.
+
 | Service | Good for |
 |---|---|
 | **[Custom RAG AI chatbot](https://www.fiverr.com/moinjamal/develop-custom-ai-chatbots-and-automate-your-business-tasks)** | A chatbot that answers from your PDFs, docs and website, with sources |
